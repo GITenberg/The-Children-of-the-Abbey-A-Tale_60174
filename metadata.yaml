@@ -1,0 +1,37 @@
+_repo: The-Children-of-the-Abbey-A-Tale_60174
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roche, Regina Maria
+    aliases:
+    - Dalton, Maria Regina
+    - Roche, Regina Maria Dalton
+    - Roche, Maria Regina
+    deathdate: 1845
+    gutenberg_agent_id: '50830'
+    url: http://www.gutenberg.org/2009/agents/50830
+    wikipedia: https://en.wikipedia.org/wiki/Regina_Maria_Roche
+description: ''
+gutenberg_issued: '2019-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gothic fiction'
+- !lcsh 'Nobility -- England -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcsh 'Soldiers -- Fiction'
+- !lcsh 'Romance fiction'
+- !lcsh 'Youth -- Conduct of life -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Families -- Fiction'
+- GITenberg
+title: 'The Children of the Abbey: A Tale'
+url: http://www.gutenberg.org/ebooks/60174
